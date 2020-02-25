@@ -1,4 +1,8 @@
 # <img src="https://raw.githubusercontent.com/smartercontractkits/brand/master/artworks/hexagon.png" height="54">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/smartercontractkits/brand/master/artworks/name.png" height="50">
+<a href="https://nulink.org/"><img src="https://img.shields.io/badge/-SITE-brightgreen"></a>
+<a href="https://discord.gg/r8ZZ23D"><img src="https://img.shields.io/badge/-DISCORD-brightgreen"></a>
+<a href="https://t.me/NuLink"><img src="https://img.shields.io/badge/-TELEGRAM-brightgreen"></a>
+<a href="https://etherscan.io/token/0x493c8d6a973246a7b26aa8ef4b1494867a825de5"><img src="https://img.shields.io/badge/-ETHERSCAN-brightgreen"></a>
 
 # backgrounder.md
 This is an “about us” section, and should include all of the basics: who, what, where, when, why, and how. It is important to remember consistency in the messaging, while keeping the backgrounder fairly brief. This portion is directed at the media and their time is valuable; therefore, you should use headings to help them find the portion that is most important to their needs.
